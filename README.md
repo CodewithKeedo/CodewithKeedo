@@ -31,7 +31,7 @@
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/steve-onyango-367baa365/)  
 - [Facebook](https://web.facebook.com/vincqy.skyla/)  
-- ✉️ steveokothonyango001@gmail.com
+- steveokothonyango001@gmail.com
 
 <!--
 **CodewithKeedo/CodewithKeedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
